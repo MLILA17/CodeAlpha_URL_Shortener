@@ -22,3 +22,27 @@ A simple backend URL Shortener built with **Node.js, Express.js, and MongoDB** a
 ---
 
 ## 📁 Project Structure
+CodeAlpha_URL_Shortener/
+│── src/
+│   ├── config/
+│   │   └── db.js
+│   ├── controllers/
+│   │   └── urlController.js
+│   ├── models/
+│   │   └── Url.js
+│   ├── routes/
+│   │   └── urlRoutes.js
+│   └── app.js
+│
+│── server.js
+│── .env
+│── package.json
+│── README.md
+
+
+👨‍💻 Author
+Name: DML
+GitHub: https://github.com/MLILA17
+⭐ Acknowledgements
+Thanks to CodeAlpha for providing hands-on backend development experience.
+🔥 If you like this project, don’t forget to star the repository!
