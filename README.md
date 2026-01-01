@@ -22,6 +22,7 @@ A simple backend URL Shortener built with **Node.js, Express.js, and MongoDB** a
 ---
 
 ## 📁 Project Structure
+```
 CodeAlpha_URL_Shortener/
 │── src/
 │   ├── config/
@@ -39,7 +40,7 @@ CodeAlpha_URL_Shortener/
 │── package.json
 │── README.md
 
-
+```
 👨‍💻 Author
 Name: DML
 GitHub: https://github.com/MLILA17
